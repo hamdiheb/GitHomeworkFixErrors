@@ -20,8 +20,8 @@ A copy will be created to your main github account.
 
 ## 5. What happens when you clone a repository?
 
-It will be cloned to your local machine.
+The repistory will be cloned to your local machine.
 
 ## 6. What is a Pull Request?
 
-send request about your new changes on the github project.
+Send request about your new changes on the github project.
