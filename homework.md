@@ -10,9 +10,9 @@ Javascript is a programming language.
 
 ## 3. What three problems does Git & GitHub solve?
 
-1)Enables seamless version updates through push and pull operations.
-2)Maintains a complete history of project versions under unique commit identifiers.
-3)Allows easy reversion to previous versions via the checkout function.
+(1)Enables seamless version updates through push and pull operations.
+(2)Maintains a complete history of project versions under unique commit identifiers.
+(3)Allows easy reversion to previous versions via the checkout function.
 
 ## 4. What happens when you `fork` a repository?
 
