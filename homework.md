@@ -24,4 +24,4 @@ It will be cloned to your local machine.
 
 ## 6. What is a Pull Request?
 
-To send request about your new changes on the github project.
+send request about your new changes on the github project.
